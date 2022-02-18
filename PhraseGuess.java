@@ -1,7 +1,3 @@
-// Martin Rudzis
-// CS 141
-// HW Core Topics: practice with file input, strings, and arrays.
-//
 // This program reads in a series of phrases from a text file, and randomly picks one to use for a game of phrase guess.
 // The user may get a maximum number of incorrect guesses, depending on the value of the class constant, MAX_WRONG
 // If the user cannot guess the phrase before using up their wrong guesses, the answer given
